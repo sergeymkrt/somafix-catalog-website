@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{66198241-EF89-4D71-9B52-090D294FF222}|Default">
+  <MonoDevelop.Ide.ItemProperties.SomafixCatalog PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SomafixCatalog/Controllers/AdminController.cs">
+    <Files>
+      <File FileName="SomafixCatalog/Controllers/HomeController.cs" Line="33" Column="27" />
+      <File FileName="SomafixCatalog/Views/Shared/_Layout.cshtml" Line="31" Column="20" />
+      <File FileName="SomafixCatalog/Views/Home/ContactUs.cshtml" Line="6" Column="1" />
+      <File FileName="SomafixCatalog/Controllers/ProductsController.cs" Line="27" Column="13" />
+      <File FileName="SomafixCatalog/Views/Products/Index.cshtml" Line="6" Column="1" />
+      <File FileName="SomafixCatalog/Controllers/AdminController.cs" Line="14" Column="1" />
+      <File FileName="SomafixCatalog/Models/ProductViewModel.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SomafixCatalog" expanded="True">
+            <Node name="SomafixCatalog" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="AdminController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Products" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
